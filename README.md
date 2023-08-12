@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kneeeekill&label=Profile%20views&color=0e75b6&style=flat" alt="kneeeekill" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kneeeekill" alt="kneeeekill" /></a> </p>
+
 
 - 🌱 I’m currently learning **React.js and DApp development**
 
@@ -13,11 +13,11 @@
 
 - 📄 Know about my experiences [https://kneeeekill.github.io/HTML-Resume/](https://kneeeekill.github.io/HTML-Resume/)
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **efficiency is clever laziness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nikhil pawaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pawaria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-pawaria-16380023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil pawaria" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilpawariaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilpawariaaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhilll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhilll" height="30" width="40" /></a>
 </p>
